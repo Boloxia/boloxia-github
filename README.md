@@ -12,7 +12,7 @@ Versions starting from 1.2 to 1.9 are lost
 | Boloxia XMAS | Remastered |
 | Boloxia Destroy   | New Game |
 
-Updating Every ~~2 Weeks~~ 1 Month
+List Updating Every ~~2 Weeks~~ 1 Month
 
 
 <dl>
