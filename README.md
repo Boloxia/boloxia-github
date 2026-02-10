@@ -9,11 +9,12 @@ Versions starting from 1.2 to 1.9 are lost
 | Boloxia V1.1 | Classic    |
 | Boloxia v2.0 | Classic    |
 | Boloxia 2.0.1| Remastered |
+| Boloxia 2.0.2| Remastered |
 | Boloxia XMAS | Remastered |
 | Boloxia Destroy   | New Game |
 
 List Updating Every ~~2 Weeks~~ 1 Month
-
+Versions Like  v1.0.1 or like v2.0.1 or 2.0.2 (so versions with like .1 .2 .3 .4 .5 .6 .7 .8. and other are like bug patches and Adding Details and Decorations
 
 <dl>
   <dt>Is Boloxia Classic & Remastered Diffrent Games</dt>
