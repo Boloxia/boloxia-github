@@ -43,10 +43,10 @@ List Updating Every ~~2 Weeks~~ 1 Month
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Boloxia/boloxia-versions/refs/heads/main/IMG2.webp" width="300"><br>
-      <em>SoyLeague</em>
+      <em>Luca_Aiuto</em>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Boloxia/boloxia-versions/refs/heads/main/IMG2.webp" width="300"><br>
-      <em>SoyLeague</em>
+      <img src="https://raw.githubusercontent.com/Boloxia/boloxia-github/refs/heads/main/Delete.webp" width="300"><br>
+      <em>SoyLeugue</em>
     </td>
   </tr>
 </table>
