@@ -14,6 +14,15 @@ Versions starting from 1.2 to 1.9 are lost
 | Boloxia Destroy   | New Game |
 
 List Updating Every ~~2 Weeks~~ 1 Month
+
+
+
+
+
+
+
+
+ # Info
 Versions Like  v1.0.1 or like v2.0.1 or 2.0.2 (so versions with like .1 .2 .3 .4 .5 .6 .7 .8. and other are like bug patches and Adding Details and Decorations
 
 <dl>
