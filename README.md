@@ -58,6 +58,8 @@ List Updating Every ~~2 Weeks~~ 1 Month
     <img src="https://img.shields.io/badge/PLAY%20NOW-ROBLOX-red?style=for-the-badge&logo=roblox">
   </a>
 </p>
+Luca_Aiuto & SoyLeugue Are The Same Dev
+
 
 [![Check Out](https://img.shields.io/badge/Check%20Out-boloxia.github.io-blue?style=for-the-badge)](https://boloxia.github.io)
 
