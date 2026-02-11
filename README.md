@@ -31,8 +31,9 @@ Versions Like  v1.0.1 or like v2.0.1 or 2.0.2 (so versions with like .1 .2 .3 .4
 <dl>
   <dt>Is Boloxia Classic & Remastered Diffrent Games</dt>
   <dd>They were, then Classic got Discontinued</dd>
+ 
 # Fun Facts
-  <dt>All Of Boloxia Studio's Games</dt>
+  <dt>All Of Boloxia Studio's Games Are</dt>
   <dd>Boloxia</em>.</dd>
   <dd>Boloxia Destroy</em>.</dd>
   <dd>Boloxia Meeting</em>.</dd>
