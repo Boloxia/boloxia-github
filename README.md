@@ -23,7 +23,7 @@ Update: Small Updates Almost Everyday
 
 Luca_Aiuto Might Quit
 
-i'm thinking of quitting too and leaving the project to DIE
+DerTriti: i'm thinking of quitting too and leaving the project to DIE,i'll see in a few weeks/days/seconds/minutes
 
 
 
