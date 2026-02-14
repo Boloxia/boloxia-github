@@ -21,6 +21,8 @@ Update: Small Updates Almost Everyday
 
 # Notes
 
+The Old DerTriti Boloxia Remastered IS DISCONTINUED
+
 Luca_Aiuto Might Quit
 
 DerTriti: i'm thinking of quitting too and leaving the project to DIE,i'll see in a few weeks/days/seconds/minutes
