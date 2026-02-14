@@ -51,6 +51,7 @@ Versions Like  v1.0.1 or like v2.0.1 or 2.0.2 (so versions with like .1 .2 .3 .4
 # Boloxia YT Videos
 
 [Boloxia Classic's Italian Trailer](https://www.youtube.com/watch?v=GufJr5-xaRE)
+
 [Boloxia Classic's English Trailer](https://www.youtube.com/watch?v=iqTrYnL8T_k)
 
 # Created By
