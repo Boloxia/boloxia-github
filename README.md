@@ -21,7 +21,7 @@ Update: Small Updates Almost Everyday
 
 # Notes
 
- Luca_Aiuto Might Quit
+Luca_Aiuto Might Quit
 
 i'm thinking of quitting too and leaving the project to DIE
 
