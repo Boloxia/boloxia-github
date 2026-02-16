@@ -10,8 +10,9 @@ Versions starting from 1.2 to 1.9 are lost
 | Boloxia v2.0 | Classic    |SoyLeague and DerTriti
 | Boloxia 2.0.1| Remastered |Luca_Aiuto and DerTriti
 | Boloxia 2.0.2| Remastered |Luca_Aiuto
-| Boloxia 2.0.3| Remastered |DerTriti
-| Boloxia XMAS | Remastered |DerTriti
+| Globe Tube Update | Remastered |DerTriti
+| The Casual Update | Remastered |DerTriti
+
 
 List Updating Every ~~2 Weeks~~ 1 Month
 
@@ -23,6 +24,8 @@ Update: Small Updates Almost Everyday
 
 The Old DerTriti Boloxia Remastered IS DISCONTINUED
 
+Boloxia Group's Boloxia Remastered will remain
+
 Luca_Aiuto Might Quit
 
 DerTriti: i'm thinking of quitting too and leaving the project to DIE,i'll see in a few weeks/days/seconds/minutes
@@ -30,7 +33,7 @@ DerTriti: i'm thinking of quitting too and leaving the project to DIE,i'll see i
 
 
  # Info
-Versions Like  v1.0.1 or like v2.0.1 or 2.0.2 (so versions with like .1 .2 .3 .4 .5 .6 .7 .8. and other are like bug patches and Adding Details and Decorations
+Versions Like  v1.0.1 or like v2.0.1 or 2.0.2 (so versions with like .1 .2 .3 .4 .5 .6 .7 .8. and other are like bug patches or Adding Details or Decorations
 
 # Responding Questions
 
